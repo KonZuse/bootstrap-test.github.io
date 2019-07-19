@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+.carousel-item{
+	height: 100px
+}
+
+.header{
+	height: 300px;
+	background: url("https://s1.1zoom.ru/b5050/596/Evening_Forests_Mountains_Firewatch_Campo_Santo_549147_1920x1080.jpg") no-repeat center;
+	background-size: cover;
+	color: white;
+}
+
+.main{
+	margin-top: 3rem;
+}
+
+.body{
+    background-color: #f8f8f8;
+}
+
+
